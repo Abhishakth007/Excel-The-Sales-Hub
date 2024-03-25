@@ -46,5 +46,6 @@ Dynamic Pivot Tables: Crafting of dynamic and interactive reports for enhanced a
 Power Query and Power Pivot: Utilization for comprehensive data transformation and in-depth analysis.
 Introduction to DAX: Familiarization with Data Analysis Expressions for enhanced insights generation.
 Professional Report Polishing: Dedication to delivering polished and professional-grade reports.
+
 Conclusion:
 This project stands as a testament to Excel's pivotal role in empowering AtliQ Hardware with actionable insights essential for driving sales strategies and enhancing profitability. It underscores the profound impact of data-driven decision-making facilitated by Excel, reaffirming its status as a quintessential tool in the realm of business analytics.
